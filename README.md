@@ -10,6 +10,7 @@ url - https://github.com/Saurav9284/IDEACLAN-Backend
 2) Express
 3) Node.js
 4) MongoDB Database
+5) Vercel
 
 ## Packges used -
 
