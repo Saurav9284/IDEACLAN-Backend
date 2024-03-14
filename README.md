@@ -2,7 +2,6 @@
 
 ## Deployment -
 
-* Vercel
 url - https://github.com/Saurav9284/IDEACLAN-Backend
 
 ## Tech Stack -
