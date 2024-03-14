@@ -1,5 +1,10 @@
 ### IDEACLAN-Backend
 
+## Deployment -
+
+* Vercel
+url - https://github.com/Saurav9284/IDEACLAN-Backend
+
 ## Tech Stack -
 
 1) graphQL
